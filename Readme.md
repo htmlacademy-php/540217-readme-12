@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
 * Студент: [Алексей Ермаков](https://up.htmlacademy.ru/php/12/user/540217).
-* Наставник: [Сергей Шершнев](https://htmlacademy.ru/profile/587797).
+* Наставник: [Сергей Шершнев](https://up.htmlacademy.ru/php/12/user/587797).
 
 ---
 
